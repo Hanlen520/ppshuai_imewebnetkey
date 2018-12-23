@@ -1,0 +1,2 @@
+# ppshuai_imewebnetkey
+ppshuai_imewebnetkey,一个基于Android的输入法，支持通过TCP/IP网络输入和自动化动作
