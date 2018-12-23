@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\DevelopmentEnvironment\Workspaces\VisualStudio2015Projects\Java\imewebnetkey\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+1735460082.index
