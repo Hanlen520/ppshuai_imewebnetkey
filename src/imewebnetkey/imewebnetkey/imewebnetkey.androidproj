@@ -88,9 +88,10 @@
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\callback\taskcallback.java" />
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\handler\childchannelhandler.java" />
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\handler\nettyserverhandler.java" />
-    <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\imewebnetkey.java" />
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\network\server\nettyserver.java" />
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\network\server\nioserver.java" />
+    <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\services\EnvironmentApplication.java" />
+    <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\services\imewebnetkey.java" />
     <JavaCompile Include="app\src\main\java\com\ppsbbs\imewebnetkey\thread\nettyserverthread.java" />
   </ItemGroup>
   <ItemGroup>
@@ -103,6 +104,9 @@
     <Content Include="app\src\main\res\values\strings.xml" />
     <Content Include="app\src\main\res\values\styles.xml" />
     <Content Include="app\src\main\res\xml\methods.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app\src\main\java\com\ppsbbs\imewebnetkey\application\" />
   </ItemGroup>
   <Import Project="$(AndroidTargetsPath)\Android.targets" />
   <ImportGroup Label="ExtensionTargets" />
